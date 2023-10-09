@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/img-loader-/static/css/main.4655f5cf.css",
+    "main.js": "/img-loader-/static/js/main.3e628053.js",
+    "index.html": "/img-loader-/index.html",
+    "main.4655f5cf.css.map": "/img-loader-/static/css/main.4655f5cf.css.map",
+    "main.3e628053.js.map": "/img-loader-/static/js/main.3e628053.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4655f5cf.css",
+    "static/js/main.3e628053.js"
+  ]
+}
